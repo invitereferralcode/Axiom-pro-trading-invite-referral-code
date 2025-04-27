@@ -5,7 +5,7 @@
 <table border="1" cellpadding="10" cellspacing="0">
     <tr>
         <th>Invite Code</th>
-        <th>ACCOUNT</th>
+        <th>Benefit Type</th>
     </tr>
     <tr>
         <td><strong>account</strong></td>
