@@ -32,7 +32,7 @@
 <p>Axiom Trade is currently in an invite-only early access phase. Follow these steps to join:</p>
 <ol>
     <li><strong>Visit Axiom Trade</strong> – Go to <a href="https://axiom.trade/@account" target="_blank">Axiom Trade</a>.</li>
-    <li><strong>Enter the Invite Code</strong> – Use this axiom invite code: <strong>account</strong> & unlock your access for reduced trading fees.</li>
+    <li><strong>Enter the Invite Code</strong> – Use this axiom invite code: "<strong>account</strong>" & unlock your access for reduced trading fees.</li>
     <li><strong>Set Up Your Account</strong> – Connect your wallet and configure your trading preferences.</li>
     <li><strong>Start Trading</strong> – Utilize Axiom’s advanced tools to enhance your trading experience.</li>
 </ol>
